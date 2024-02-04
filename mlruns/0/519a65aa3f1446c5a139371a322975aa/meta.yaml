@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/DataScience/Ineuron/ML%20Flow%20Projects/04_red_wine_mlflow/mlruns/0/519a65aa3f1446c5a139371a322975aa/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 519a65aa3f1446c5a139371a322975aa
+run_name: mysterious-gnat-555
+run_uuid: 519a65aa3f1446c5a139371a322975aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1707028390072
+status: 1
+tags: []
+user_id: linkan2
